@@ -1,4 +1,4 @@
-# AWS Architecture — Manas in Tech
+# AWS Architecture - Manas in Tech
 
 Este repositório contém o diagrama de arquitetura em nuvem do projeto Manas in Tech, uma plataforma voltada à inclusão de mulheres no mercado de tecnologia por meio de capacitação, mentoria, networking e acesso a oportunidades profissionais.
 
